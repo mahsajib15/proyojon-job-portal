@@ -1,0 +1,125 @@
+{
+    "product": [
+      {
+        "key": "e3f9k12g5v7",
+        "image": "https://www.butterflygroupbd.com/media/catalog/product/r/-/r-fg450pgv8_05.jpg?optimize=high&fit=bounds&height=700&width=700",
+        "name": "Refrigerator Appliance",
+        "price": 75000,
+        "discount": 5,
+        "ratings": 4.0
+      },
+      {
+        "key": "b7q5x1n3p9m",
+        "image": "https://www.startech.com.bd/image/cache/catalog/air-conditioner/general/ash12usccw/ash12usccw-02-500x500.webp",
+        "name": "AC Appliance",
+        "price": 55050,
+        "discount": 3,
+        "ratings": 3.0
+      },
+      {
+        "key": "z4a8c6v2k7b",
+        "image": "https://fixit.com.bd/wp-content/uploads/2023/09/PPC-42-1.webp",
+        "name": "Pvc Pipe Cutter JETECH Brand PPC-42",
+        "price": 13500,
+        "discount": 10,
+        "ratings": 3.7
+      },
+      {
+        "key": "q9w8r1t6y2p",
+        "image": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-15-x515ja/15-x515ja-slate-grey-500x500.jpg",
+        "name": "Asus X515JA Core i3 10th Gen Laptop",
+        "price": 49500,
+        "discount": 7,
+        "ratings": 5.0
+      },
+      {
+        "key": "k3l7u2d9x1v",
+        "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-gtx-1650-d6-ventus-xs-ocv3/geforce-gtx-1650-d6-ventus-xs-ocv3-01-500x500.webp",
+        "name": "MSI GTX 1650 Ventus XS 4GB Graphics Card",
+        "price": 36500,
+        "discount": 6,
+        "ratings": 2.5
+      },
+      {
+        "key": "y2b6n9t3w8q",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/t-create-classic-ddr4/t-create-classic-ddr4-01-500x500.webp",
+        "name": "TEAM 8GB DDR4 3200MHz RAM",
+        "price": 3400,
+        "discount": 4,
+        "ratings": 3.5
+      },
+      {
+        "key": "m5p3v9q2t8b",
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/western/240gb/240gb-500x500.jpg",
+        "name": "WD Green 240GB M.2 SSD",
+        "price": 3100,
+        "discount": 5,
+        "ratings": 4.0
+      },
+      {
+        "key": "a6c9v3t7y2b",
+        "image": "https://www.startech.com.bd/image/cache/catalog/Component/HDD/Seagate%20/seagate-1-500x500.jpg",
+        "name": "Seagate Barracuda 1TB HDD",
+        "price": 4700,
+        "discount": 6,
+        "ratings": 3.0
+      },
+      {
+        "key": "l3k9t2w5p8v",
+        "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-3600x/ryzen-5-3600-500x500.jpg",
+        "name": "AMD Ryzen 5 3600 Processor",
+        "price": 18500,
+        "discount": 8,
+        "ratings": 2.8
+      },
+      {
+        "key": "t9y2b6p3v8w",
+        "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b450m-ds3h/b450m-ds3h-1-500x500.jpg",
+        "name": "Gigabyte B450M DS3H Motherboard",
+        "price": 9500,
+        "discount": 7,
+        "ratings": 4.6
+      },
+      {
+        "key": "x8q2p5v9t3y",
+        "image": "https://www.startech.com.bd/image/cache/catalog/casing/cooler-master/masterbox-k501l/masterbox-k501l-500x500.jpg",
+        "name": "Cooler Master K501L Gaming Case",
+        "price": 5200,
+        "discount": 5,
+        "ratings": 3.5
+      },
+      {
+        "key": "v3p9t7b2y6w",
+        "image": "https://www.startech.com.bd/image/cache/catalog/Component/power%20supply/Antec/neo-eco_550m/neo_eco_550m-500x500.jpg",
+        "name": "Antec NE550 Power Supply 550W",
+        "price": 6000,
+        "discount": 4,
+        "ratings": 4.5
+      },
+      {
+        "key": "b9y2t3p7v8w",
+        "image": "https://www.startech.com.bd/image/cache/catalog/Component/power%20supply/Antec/neo-eco_550m/neo_eco_550m-500x500.jpg",
+        "name": "APC 650VA UPS",
+        "price": 6900,
+        "discount": 5,
+        "ratings": 4.3
+      },
+      {
+        "key": "w8v3p9t7y2b",
+        "image": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/gammaxx-400-v2/gammaxx-400-v2-01-500x500.jpg",
+        "name": "Deepcool Gammaxx 400 CPU Cooler",
+        "price": 2800,
+        "discount": 5,
+        "ratings": 4.4
+      },
+      {
+        "key": "p7v9t3y2b6w",
+        "image": "https://www.startech.com.bd/image/cache/catalog/microphone/fantech/leviosa-live-mcx02/leviosa-live-mcx02-01-500x500.png",
+        "name": "Fantech MCX-02 Mid Tower Case",
+        "price": 4400,
+        "discount": 4,
+        "ratings": 4.2
+      }
+    ]
+  }
+  

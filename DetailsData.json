@@ -1,0 +1,85 @@
+{
+    "details": [
+      {
+        "id": "ApplianceService1aZ9aBc8",
+        "name": "Refrigerator Service",
+        "description": "Cooling, Repair, Maintenance",
+        "image": "/public/Images/Services/banquet-hall.jpg",
+        "rating": "4.7",
+        "reviews": 35,
+        "location": "Dhaka",
+        "experience": "10 years"
+      },
+      {
+        "id": "ApplianceService2bX7dFg3",
+        "name": "TV Repair Service",
+        "description": "Screen, Sound, Power, Repair",
+        "image": "/public/Images/Services/tv-repair.jpg",
+        "rating": "4.5",
+        "reviews": 28,
+        "location": "Chittagong",
+        "experience": "8 years"
+      },
+      {
+        "id": "DailyNeeds1pK2vRm5",
+        "name": "Movies",
+        "description": "Entertainment, Cinema, Fun, Leisure",
+        "image": "/public/images/services/movies.jpg",
+        "rating": "4.9",
+        "reviews": 50,
+        "location": "Narayanganj",
+        "experience": "12 years"
+      },
+      {
+        "id": "ElectronicsService1pQ2nKm3",
+        "name": "Laptop Repair Service",
+        "description": "Hardware, Software, Repair, Upgrades",
+        "image": "/public/images/services/laptop.jpg",
+        "rating": "4.8",
+        "reviews": 40,
+        "location": "Gazipur",
+        "experience": "7 years"
+      },
+      {
+        "id": "WeddingRequisite1tF2nKu3",
+        "name": "Banquet Halls",
+        "description": "Venue, Decoration, Events, Services",
+        "image": "/public/Images/Services/banquet-hall.jpg",
+        "rating": "4.6",
+        "reviews": 32,
+        "location": "Pabna",
+        "experience": "15 years"
+      },
+      {
+        "id": "BeautySpa1nM3tRq5",
+        "name": "Beauty Parlours",
+        "description": "Beauty, Hair, Skin, Makeup",
+        "image": "/public/images/services/beauty-parlours.jpg",
+        "rating": "4.7",
+        "reviews": 38,
+        "location": "Brahmanbaria",
+        "experience": "11 years"
+      },
+      {
+        "id": "HealthCarejieM3tRq5",
+        "name": "Mom's Care",
+        "description": "Mother, Health, Wellness, Support",
+        "image": "/public/images/services/momsCare.jpg",
+        "rating": "5.0",
+        "reviews": 45,
+        "location": "Brahmanbaria",
+        "experience": "14 years"
+      },
+      {
+        "id": "DailyNeeds3yB9rHd4",
+        "name": "News Paper",
+        "description": "News, Information, Daily Updates",
+        "image": "/public/images/services/newspaper.jpg",
+        "rating": "4.6",
+        "reviews": 20,
+        "location": "Dhaka",
+        "experience": "18 years"
+      }
+    ]
+  }
+  

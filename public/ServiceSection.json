@@ -1,0 +1,410 @@
+{
+  "services": [
+    {
+      "title": "Appliance Services",
+      "items": [
+        {
+          "id": "ApplianceService1aZ9aBc8",
+          "name": "Refrigerator Service",
+          "person": "Fahimul Hasan",
+          "image": "/ServiceImages/fridge-repair.jpg",
+          "location": "Dhaka",
+          "category": "popular",
+          "date": "2024-12-01",
+          "rating": "5",
+          "description": "Cooling, Repair, Maintenance",
+          "experience": "07",
+          "details": "Our expert refrigerator service covers everything from cooling issues to full-scale repairs. We ensure optimal performance and longevity through top-quality maintenance. Available for all brands and models."
+        },
+        {
+          "id": "ApplianceService2bX7dFg3",
+          "name": "TV Repair Service",
+          "person": "Muktadir",
+          "image": "/ServiceImages/tv-repair.jpg",
+          "location": "Chittagong",
+          "category": "Appliance Services",
+          "date": "2024-11-15",
+          "description": "Screen, Sound, Power, Repair",
+          "experience": "37",
+          "rating": "5",
+          "details": "We provide TV repair services for screen issues, sound malfunctions, and power failures. Our skilled technicians handle repairs efficiently, ensuring seamless entertainment experiences."
+        },
+        {
+          "id": "ApplianceService3fQ4hJk5",
+          "name": "AC Repair Service",
+          "person": "Anis",
+          "image": "/ServiceImages/ac-service.jpg",
+          "location": "Sylhet",
+          "category": "popular",
+          "date": "2024-10-20",
+          "description": "Cooling, Maintenance, Repair",
+          "experience": "4",
+          "rating": "3",
+          "details": "Stay cool with our AC repair service. We handle cooling issues, perform regular maintenance, and conduct repairs to keep your air conditioning running smoothly, even during the hottest days."
+        },
+        {
+          "id": "ApplianceService4mV2iPl6",
+          "name": "Oven Repair Service",
+          "person": "Abir",
+          "image": "/ServiceImages/oven-repair.jpg",
+          "location": "Khulna",
+          "category": "Appliance Services",
+          "date": "2024-09-30",
+          "description": "Heating, Repair, Parts",
+          "experience": "5",
+          "details": "Our oven repair services address heating problems and component replacements. Whether it's a commercial or household oven, we ensure it heats up and functions like new."
+        },
+        {
+          "id": "ApplianceService5yB3oUv7",
+          "name": "Washing Machine Service",
+          "person": "Rakibul Hasan",
+          "image": "/ServiceImages/washing-machine.jpg",
+          "location": "Rajshahi",
+          "category": "popular",
+          "date": "2024-08-25",
+          "description": "Cleaning, Spin, Maintenance",
+          "experience": "3",
+          "details": "Efficient washing machine service includes cleaning, spin cycle repairs, and general maintenance. We handle various brands, ensuring your laundry appliances stay in top shape."
+        },
+        {
+          "id": "ApplianceService6zT8aKn9",
+          "name": "Geyser Repair Services",
+          "person": "Juwel Rana",
+          "image": "/ServiceImages/geyser-repair.jpg",
+          "location": "Barisal",
+          "category": "Appliance Services",
+          "date": "2024-07-10",
+          "description": "Heating, Water, Repair, Maintenance",
+          "experience": "7",
+          "details": "Our geyser repair services ensure continuous hot water by fixing heating elements, leaks, and regular wear and tear. Trust our experienced technicians for reliable geyser maintenance."
+        }
+      ]
+    },
+    {
+      "title": "Daily Needs",
+      "items": [
+        {
+          "id": "DailyNeeds1pK2vRm5",
+          "name": "Movies",
+          "person": "Altaf Hossain",
+          "image": "/ServiceImages/movies.jpg",
+          "location": "Narayanganj",
+          "category": "Daily Needs",
+          "date": "2024-12-10",
+          "description": "Entertainment, Cinema, Fun, Leisure",
+          "experience": "10"
+        },
+        {
+          "id": "DailyNeeds2uV7cXb8",
+          "name": "Grocery",
+          "image": "/ServiceImages/grocery.jpg",
+          "location": "Comilla",
+          "category": "popular",
+          "date": "2024-11-05",
+          "description": "Food, Essentials, Shopping, Daily",
+          "experience": "6"
+        },
+        {
+          "id": "DailyNeeds3yB9rHd4dfea",
+          "name": "Electricians",
+          "image": "/ServiceImages/electricians.jpg",
+          "location": "Rangpur",
+          "category": "Daily Needs",
+          "date": "2024-10-12",
+          "description": "Wiring, Repair, Lighting, Circuits",
+          "experience": "3"
+        },
+        {
+          "id": "DailyNeeds3yB9rHd4",
+          "name": "News Paper",
+          "image": "/ServiceImages/newspaper.jpg",
+          "location": "Dhaka",
+          "category": "Daily Needs",
+          "date": "2024-08-12",
+          "description": "Wiring, Repair, Lighting, Circuits",
+          "experience": "1"
+        },
+        {
+          "id": "DailyNeeds3yB9rHfaead4",
+          "name": "Plumber",
+          "image": "/ServiceImages/plumber.jpg",
+          "location": "Barishal",
+          "category": "Daily Needs",
+          "date": "2024-10-05",
+          "description": "Wiring, Repair, Lighting, Circuits",
+          "experience": "3"
+        },
+        {
+          "id": "DailyNeeds3saeafyB9rHd4",
+          "name": "Gas Repair",
+          "image": "/ServiceImages/gas.jpg",
+          "location": "Khulna",
+          "category": "Daily Needs",
+          "date": "2024-10-12",
+          "description": "Wiring, Repair, Lighting, Circuits",
+          "experience": "7"
+        }
+      ]
+    },
+    {
+      "title": "Electronics & Gadgets Services",
+      "items": [
+        {
+          "id": "ElectronicsService1pQ2nKm3",
+          "name": "Laptop Repair Service",
+          "image": "/ServiceImages/laptop.jpg",
+          "location": "Gazipur",
+          "category": "Electronics & Gadgets Services",
+          "date": "2024-09-05",
+          "description": "Hardware, Software, Repair, Upgrades",
+          "experience": "37"
+        },
+        {
+          "id": "ElectronicsService2vF7aZx4",
+          "name": "Desktop Repair Service",
+          "image": "/ServiceImages/desktop.jpg",
+          "location": "Bogura",
+          "category": "popular",
+          "date": "2024-08-18",
+          "description": "Hardware, Software, Repair, Upgrades",
+          "experience": "3"
+        },
+        {
+          "id": "ElectronicsService3kC1oFt9",
+          "name": "MacBook Service",
+          "image": "/ServiceImages/macbook.jpg",
+          "location": "Jessore",
+          "category": "Electronics & Gadgets Services",
+          "date": "2024-07-28",
+          "description": "Hardware, Software, Repair, Upgrades",
+          "experience": "3"
+        },
+        {
+          "id": "ElectronicsService4hT6nQe8",
+          "name": "Printer Repair Service",
+          "image": "/ServiceImages/printer-repair.jpg",
+          "location": "Mymensingh",
+          "category": "popular",
+          "date": "2024-06-15",
+          "description": "Printing, Repair, Ink, Maintenance",
+          "experience": "3"
+        },
+        {
+          "id": "ElectronicsService5yM3oXs7",
+          "name": "IPS Service",
+          "image": "/ServiceImages/ips.jpg",
+          "location": "Cox's Bazar",
+          "category": "Electronics & Gadgets Services",
+          "date": "2024-05-22",
+          "description": "Power, Backup, Repair, Maintenance",
+          "experience": "7"
+        },
+        {
+          "id": "ElectronicsService6pG4vLs9",
+          "name": "Water Purifier Service",
+          "image": "/ServiceImages/water-purifier (1).jpg",
+          "location": "Sirajganj",
+          "category": "popular",
+          "date": "2024-04-30",
+          "description": "Cleaning, Filters, Water, Repair",
+          "experience": "3"
+        }
+      ]
+    },
+    {
+      "title": "Wedding Requisites",
+      "items": [
+        {
+          "id": "WeddingRequisite1tF2nKu3",
+          "name": "Banquet Halls",
+          "image": "/ServiceImages/banquet-hall.jpg",
+          "location": "Pabna",
+          "category": "Wedding Requisites",
+          "date": "2024-03-30",
+          "description": "Venue, Decoration, Events, Services",
+          "experience": "3"
+        },
+        {
+          "id": "WeddingRequisite2vZ6sDl7",
+          "name": "Bridal Requisite",
+          "image": "/ServiceImages/jewelry.jpg",
+          "location": "Feni",
+          "category": "popular",
+          "date": "2024-01-20",
+          "description": "Jewelry, Dresses, Accessories, Makeup",
+          "experience": "3"
+        },
+        {
+          "id": "WeddingRequisite3mA1wQe8",
+          "name": "Caterers",
+          "image": "/ServiceImages/caterers.jpg",
+          "location": "Jamalpur",
+          "category": "Wedding Requisites",
+          "date": "2024-04-10",
+          "description": "Food, Events, Preparation, Services",
+          "experience": "3"
+        },
+        {
+          "id": "WeddingRequisite3mA1fQe1",
+          "name": "Wedding Photography",
+          "image": "/ServiceImages/photography.jpg",
+          "location": "Jamalpur",
+          "category": "Wedding Requisites",
+          "date": "2024-03-14",
+          "description": "Photos, Memories, Events, Albums",
+          "experience": "3"
+        },
+        {
+          "id": "WeddingRequisite3mA1wer1e8",
+          "name": "Resort",
+          "image": "/ServiceImages/resort.jpg",
+          "location": "Vulta",
+          "category": "Wedding Requisites",
+          "date": "2024-07-31",
+          "description": "Venue, Decoration, Events, Services",
+          "experience": "3"
+        },
+        {
+          "id": "WeddingRequisimA1wer1e8",
+          "name": "Convention Center",
+          "image": "/ServiceImages/caterers.jpg",
+          "location": "Jamalpur",
+          "category": "Wedding Requisites",
+          "date": "2024-10-25",
+          "description": "Venue, Decoration, Events, Services",
+          "experience": "3"
+        }
+      ]
+    },
+    {
+      "title": "Beauty & Spa",
+      "items": [
+        {
+          "id": "BeautySpa1nM3tRq5",
+          "name": "Beauty Parlours",
+          "image": "/ServiceImages/beauty-parlours.jpg",
+          "location": "Brahmanbaria",
+          "category": "Beauty & Spa",
+          "date": "2024-03-09",
+          "description": "Beauty, Hair, Skin, Makeup",
+          "experience": "3"
+        },
+        {
+          "id": "BeautySpa2fS6aLv9",
+          "name": "Spa & Massages",
+          "image": "/ServiceImages/spa&messages.jpg",
+          "location": "Faridpur",
+          "category": "popular",
+          "date": "2024-04-16",
+          "description": "Relaxation, Body, Wellness, Therapy",
+          "experience": "37"
+        },
+        {
+          "id": "BeautySpa3dV8nZa4",
+          "name": "Makeover & Hairstyling",
+          "image": "/ServiceImages/makeover.jpg",
+          "location": "Ullapara",
+          "category": "Beauty & Spa",
+          "date": "2024-10-30",
+          "description": "Style, Hair, Makeover, Beauty",
+          "experience": "3"
+        },
+        {
+          "id": "BeautySpa3dV8nfeZa4",
+          "name": "Mehendi Art",
+          "image": "/ServiceImages/mehendi.jpg",
+          "location": "Nazipur",
+          "category": "popular",
+          "date": "2024-04-24",
+          "description": "Design, Art, Hands, Bridal",
+          "experience": "37"
+        },
+        {
+          "id": "BeautySpa3dV8nZaer24",
+          "name": "Nail Extension",
+          "image": "/ServiceImages/nailExtension.jpg",
+          "location": "Sirajganj",
+          "category": "Beauty & Spa",
+          "date": "2024-09-24",
+          "description": "Nails, Beauty",
+          "experience": "37"
+        },
+        {
+          "id": "BeautySpa3dV8nZa4feart",
+          "name": "Gym",
+          "image": "/ServiceImages/gym.jpg",
+          "location": "Cumilla",
+          "category": "Beauty & Spa",
+          "date": "2024-11-30",
+          "description": "Fitness, Training, Exercise",
+          "experience": "3"
+        }
+      ]
+    },
+    {
+      "title": "Health Care",
+      "items": [
+        {
+          "id": "HealthCarejieM3tRq5",
+          "name": "Mom's Care",
+          "image": "/ServiceImages/momsCare.jpg",
+          "location": "Brahmanbaria",
+          "category": "Health_Care",
+          "date": "2024-03-09",
+          "description": "Mother, Health, Wellness, Support",
+          "experience": "37"
+        },
+        {
+          "id": "HealthCare2fS6aLv9",
+          "name": "Baby & Care",
+          "image": "/ServiceImages/momsCare1.jpg",
+          "location": "Faridpur",
+          "category": "popular",
+          "date": "2024-04-16",
+          "description": "Baby, Health, Safety",
+          "experience": "37"
+        },
+        {
+          "id": "HealthCare3dV8nZa4",
+          "name": "Womens Care",
+          "image": "/ServiceImages/womensCare.jpg",
+          "location": "Ullapara",
+          "category": "Health_Care",
+          "date": "2024-10-30",
+          "description": "Women, Wellness, Support",
+          "experience": "37"
+        },
+        {
+          "id": "HealthCare3dV8nfeZa4",
+          "name": "Men's Health",
+          "image": "/ServiceImages/mensHealth.jpg",
+          "location": "Nazipur",
+          "category": "Health_Care",
+          "date": "2024-04-24",
+          "description": "Men, Health, Fitness, Wellness",
+          "experience": "37"
+        },
+        {
+          "id": "HealthCare3dV8nZaer24",
+          "name": "Skin Care",
+          "image": "/ServiceImages/skinCare.jpg",
+          "location": "Sirajganj",
+          "category": "Health_Care",
+          "date": "2024-09-24",
+          "description": "Skin, Beauty, Care, Health",
+          "experience": "3"
+        },
+        {
+          "id": "HealthCare3dV8nZa4feart",
+          "name": "Eye Care",
+          "image": "/ServiceImages/eyeCare.jpg",
+          "location": "Cumilla",
+          "category": "Health_Care",
+          "date": "2024-11-30",
+          "description": "Eyes, Vision, Health, Care",
+          "experience": "37"
+        }
+      ]
+    }
+  ]
+}
